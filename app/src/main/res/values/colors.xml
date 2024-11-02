@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleur existantes -->
+    <color name="colorPrimary">#e4d782</color>
+    <color name="colorPrimaryDark">#e4d782</color>
+    <color name="colorAccent">#e7eba2</color>
+    <color name="black">#FF000000</color>
+    <color name="text">#FF000000</color>
+    <!-- Ajout de la nouvelle couleur d'arrière-plan -->
+    <color name="background_color">#e4d782</color>
+    <color name="background_color2">#e4d782</color>
+</resources>
